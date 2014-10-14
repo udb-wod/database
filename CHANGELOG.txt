@@ -1,0 +1,10 @@
+======================================
+Update pack 0.1.0 for CMaNGOS-WoD XXXX 
+======================================
+Biggest changes:
+
+* Initial Commit
+
+** Updated older updatepack to fix the revision
+
+
